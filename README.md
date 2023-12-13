@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE-PUBLIC/assets/23700365/cfd72190-60b2-4158-b4b8-73fad7c4139e)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE-PUBLIC/assets/23700365/7a622247-e691-4820-b5ce-b2ed53b7fd3e)
+
 # Basic Info
 
 Note|Description
